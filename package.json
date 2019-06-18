@@ -1,0 +1,9 @@
+{
+  "name": "nextgenAPIdemo",
+  "description": "Demo the serving of a REST endpoint via API Gateway",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  }
+}
